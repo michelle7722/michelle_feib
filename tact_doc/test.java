@@ -8,8 +8,7 @@ public class test {
     	String setupStr = "N3,N6";
     	String projCode = "";
  	
-    	int pos = setupStr.indexOf(projCode);
-System.out.println("michelle pos=" + pos);    	    	
+    	int pos = setupStr.indexOf(projCode);  	    	
     	if (setupStr.contains(projCode)) {
     		System.out.println("michelle true");
     	} else {
