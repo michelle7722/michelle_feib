@@ -9,7 +9,6 @@ public class test {
     	String projCode = "";
  	
     	int pos = setupStr.indexOf(projCode);
-System.out.println("michelle pos=" + pos);    	    	
     	if (setupStr.contains(projCode)) {
     		System.out.println("michelle true");
     	} else {
